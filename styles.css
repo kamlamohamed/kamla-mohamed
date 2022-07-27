@@ -1,0 +1,11 @@
+
+body{background-color: rgb(14, 14, 14);}
+
+*{text-align: center;}
+.carousel-inner{width: 1000px; 
+margin-left: 5em;}
+.warber{width: 1000px; height: 500px;}
+img{width: 900px; ;}
+.nav-link{ color: black;}
+
+h1{background-color: rgb(209, 197, 26); height: 100px; margin: 4em;}
